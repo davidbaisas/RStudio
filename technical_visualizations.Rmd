@@ -5,3 +5,7 @@ hist(x)
 y <- rpois(100, 5)
 print(y)
 hist(y)
+
+z <- rnorm(100, 10 ,5)
+print(z)
+hist(z)
