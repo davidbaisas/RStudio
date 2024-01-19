@@ -1,0 +1,3 @@
+x <- rbinom(100, 150, 0.4) 
+print(x) 
+hist(x)
