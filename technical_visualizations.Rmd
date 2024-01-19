@@ -1,3 +1,7 @@
 x <- rbinom(100, 150, 0.4) 
 print(x) 
 hist(x)
+
+y <- rpois(100, 5)
+print(y)
+hist(y)
